@@ -1,4 +1,4 @@
-# RLLAHM  
+# Representation Learning from LimitedEducational Data with Crowdsourced Labels  
 Tensorflow implementation for RECLE.  
 
 Dependency:  
